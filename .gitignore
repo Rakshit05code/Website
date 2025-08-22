@@ -25,3 +25,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Firebase configuration files
+firebase.tsx
+firebase.js
+
+# Environment variables containing Firebase keys
+.env
+.env.local
+.env.development.local
+.env.production.local
